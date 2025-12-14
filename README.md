@@ -2,8 +2,6 @@
 
 A Highly Customizable Checkout for Magento 2, Built with React.
 
-# [![Hyvä Themes](https://github.com/hyva-themes/magento2-react-checkout/blob/documentation/docs/images/logo-hyva.svg)](https://hyva.io/)
-
 ## hyva-themes/magento2-react-checkout
 
 ![Supported Magento Versions][ico-compatibility]
