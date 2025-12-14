@@ -1,4 +1,4 @@
-# Hyvä Themes - React Checkout
+# One-checkout after - Hyvä Themes - React Checkout
 
 A Highly Customizable Checkout for Magento 2, Built with React.
 
